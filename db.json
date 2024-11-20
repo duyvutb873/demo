@@ -1,11 +1,58 @@
 {
-  "posts": [
+  "users": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "Nguyễn Văn A",
+      "email": "nguyenvana@example.com",
+      "phone": "0123456789",
+      "is_active": true,
+      "created_at": "2024-11-20T10:00:00Z"
+    },
+    {
+      "id": 2,
+      "name": "Trần Thị B",
+      "email": "tranthib@example.com",
+      "phone": "0987654321",
+      "is_active": false,
+      "created_at": "2024-11-18T15:30:00Z"
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "products": [
+    {
+      "id": 101,
+      "name": "Laptop Dell XPS 13",
+      "price": 35000000,
+      "quantity": 10,
+      "category": "Electronics",
+      "created_at": "2024-11-15T12:00:00Z"
+    },
+    {
+      "id": 102,
+      "name": "Điện thoại iPhone 15",
+      "price": 29000000,
+      "quantity": 5,
+      "category": "Mobile Phones",
+      "created_at": "2024-11-16T14:20:00Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": 1001,
+      "user_id": 1,
+      "product_id": 102,
+      "quantity": 1,
+      "total_price": 29000000,
+      "order_date": "2024-11-19T16:45:00Z",
+      "status": "Pending"
+    },
+    {
+      "id": 1002,
+      "user_id": 2,
+      "product_id": 101,
+      "quantity": 2,
+      "total_price": 70000000,
+      "order_date": "2024-11-18T09:15:00Z",
+      "status": "Completed"
+    }
+  ]
 }
