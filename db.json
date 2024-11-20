@@ -33,6 +33,46 @@
       "quantity": 5,
       "category": "Mobile Phones",
       "created_at": "2024-11-16T14:20:00Z"
+    },
+    {
+      "id": 102,
+      "name": "Điện thoại iPhone 15",
+      "price": 29000000,
+      "quantity": 5,
+      "category": "Mobile Phones",
+      "created_at": "2024-11-16T14:20:00Z"
+    },
+    {
+      "id": 102,
+      "name": "Điện thoại iPhone 15",
+      "price": 29000000,
+      "quantity": 5,
+      "category": "Mobile Phones",
+      "created_at": "2024-11-16T14:20:00Z"
+    },
+    {
+      "id": 102,
+      "name": "Điện thoại iPhone 15",
+      "price": 29000000,
+      "quantity": 5,
+      "category": "Mobile Phones",
+      "created_at": "2024-11-16T14:20:00Z"
+    },
+    {
+      "id": 102,
+      "name": "Điện thoại iPhone 15",
+      "price": 29000000,
+      "quantity": 5,
+      "category": "Mobile Phones",
+      "created_at": "2024-11-16T14:20:00Z"
+    },
+    {
+      "id": 102,
+      "name": "Điện thoại iPhone 15",
+      "price": 29000000,
+      "quantity": 5,
+      "category": "Mobile Phones",
+      "created_at": "2024-11-16T14:20:00Z"
     }
   ],
   "orders": [
